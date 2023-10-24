@@ -1,2 +1,5 @@
-# Banca dati Regionale di Integrazione e Coordinamento (#BRIC) ex art.42 l.r. n.8/2011
-Sito tematico bric.regione.umbria.it
+# BRIC
+
+le informazioni sull'Accesso Unico sono ora al seguente indirizzo:
+
+http://accessounico.regione.umbria.it
